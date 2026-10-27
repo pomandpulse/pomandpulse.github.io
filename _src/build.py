@@ -189,6 +189,7 @@ footer .fbar{border-top:1px solid rgba(255,255,255,.12);padding:20px 0;display:f
 footer .fbar .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;width:100%}
 footer .fbar{display:block;padding:0}footer .fbar .wrap{padding-top:18px;padding-bottom:18px}
 body.fa .hero h1{font-size:clamp(2.1rem,4.4vw,3.3rem)}.hero h1 em{white-space:nowrap}body.fa footer li[dir=ltr]{text-align:right}
+.follow .btn{min-width:120px}@media(max-width:480px){.follow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.follow .btn{min-width:0;padding:0 8px}}
 /* motion */
 .js .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
 .js .reveal.in{opacity:1;transform:none}
@@ -294,7 +295,7 @@ def main():
         pick = ('<span>خواندن به</span><a class="cur" href="/fa/" lang="fa">فارسی</a><a href="/" lang="en">English</a>' if fa else '<span>Read in</span><a class="cur" href="/" lang="en">English</a><a href="/fa/" lang="fa">فارسی</a>')
         pulse = '<svg class="pulse" viewBox="0 0 1200 60" preserveAspectRatio="none"><path d="M0 34 H430 L455 34 L475 8 L505 56 L530 22 L545 34 H1200"/></svg>'
         ft = f'<a class="feature" href="{pre(l)}/p/{feat["slug"]}/"><span class="badge">{u["latest_badge"]}</span><img src="/img/{feat["id"]}_{l}.jpg" width="1280" height="1600" alt="{E_(T(feat,"alt",l))}"></a>' if feat else ""
-        socials = '<a class="btn gold" href="https://www.instagram.com/pomandpulse/">Instagram</a><a class="btn alt" href="https://www.threads.net/@pomandpulse">Threads</a><a class="btn alt" href="https://x.com/pomandpulse">X</a>'
+        socials = '<a class="btn" href="https://www.instagram.com/pomandpulse/">Instagram</a><a class="btn" href="https://www.threads.net/@pomandpulse">Threads</a><a class="btn" href="https://x.com/pomandpulse">X</a>'
         words = ["Glycemic index","Fiber","Probiotic","Antioxidant","Sodium"] if not fa else ["شاخص گلایسمی","فیبر","پروبیوتیک","آنتی‌اکسیدان","سدیم"]
         if len(ps) == 1:
             q = ps[0]
