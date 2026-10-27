@@ -3,7 +3,7 @@
 Usage: python3 _src/build.py --out _site [--through YYYY-MM-DD]
 Reads _src/data/pieces.json. Publishes pieces dated on or before the cutoff
 (default: most recent Saturday on/before yesterday, Pacific time)."""
-import argparse, json, shutil, html, datetime as dt
+import argparse, json, shutil, html, hashlib, datetime as dt
 from pathlib import Path
 from zoneinfo import ZoneInfo
 SRC = Path(__file__).parent
@@ -215,6 +215,7 @@ UI = {
         "pil":[("اول شواهد","منبع‌های اصلی و زبانی محتاط. می‌گوییم پژوهش‌ها چه چیزی را نشان می‌دهند، نه اینکه چه چیزی را ثابت می‌کنند."),("دو زبان","هر پست به فارسی و انگلیسی، برای هر زبان نوشته شده و فقط ترجمه نیست."),("منبع در هر پست","هر تصویر منبع‌ها و اعتبار عکس را نام می‌برد تا خودتان بررسی کنید.")],
         "wtk_h":"واژه‌های مهم","wtk_p":"توضیح‌های کوتاه و ساده از اصطلاح‌های غذا و سلامت که مدام می‌شنوید، به فارسی و انگلیسی.","wtk_btn":"دیدن واژه‌نامه","fol_h":"به ما سر بزنید","fol_p":"هر روز پست تازه در اینستاگرام، تردز و ایکس."},
 }
+VER = hashlib.md5((CSS + JS).encode()).hexdigest()[:8]
 def pre(l): return "/fa" if l == "fa" else ""
 
 def page(title, body, path, site, desc=None, og=None, lang="en"):
@@ -229,14 +230,14 @@ def page(title, body, path, site, desc=None, og=None, lang="en"):
 <title>{E_(title)}</title><meta name="description" content="{E_(desc)}">
 <link rel="alternate" hreflang="{ol}" href="{site['url']}{pre(ol)}{path}"><link rel="alternate" hreflang="{lang}" href="{site['url']}{P}{path}">
 <meta property="og:title" content="{E_(title)}"><meta property="og:description" content="{E_(desc)}"><meta property="og:type" content="website"><meta property="og:url" content="{site['url']}{P}{path}">{ogimg}<meta name="twitter:card" content="summary_large_image">
-<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css"></head><body class="{lang}">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/assets/site.css?v={VER}"></head><body class="{lang}">
 <header class="top"><div class="wrap"><a class="brand" href="{P}/"><img src="/assets/logo.svg" alt="">{E_(sitename)}</a><nav>{nav}<a class="langsw" href="{pre(ol)}{path}" hreflang="{ol}" lang="{ol}">{u['other']}</a></nav></div></header>
 <main><div class="wrap">{body}</div></main>
 <footer><div class="wrap fgrid"><div><div class="fb"><img src="/assets/logo.svg" alt=""><strong>{E_(sitename)}</strong></div><p>{E_(site['tagline_fa'] if lang=='fa' else site['tagline'])}</p></div>
 <div><h4>{u['explore']}</h4><ul>{''.join(f'<li><a href="{P}{x}">{n}</a></li>' for x, n in u['nav'][1:])}</ul></div>
 <div><h4>{u['follow']}</h4><ul><li><a href="https://www.instagram.com/pomandpulse/">Instagram</a></li><li><a href="https://www.threads.net/@pomandpulse">Threads</a></li><li><a href="https://x.com/pomandpulse">X</a></li><li dir="ltr" style="color:#B9B0A8">{E_(site['handle'])}</li></ul></div></div>
 <div class="fbar"><div class="wrap"><span>{u['foot']}</span><span dir="ltr">© {E_(sitename)}</span></div></div></footer>
-<script src="/assets/site.js"></script></body></html>"""
+<script src="/assets/site.js?v={VER}"></script></body></html>"""
 
 FA_MONTHS = ["ژانویه","فوریه","مارس","آوریل","مه","ژوئن","ژوئیه","اوت","سپتامبر","اکتبر","نوامبر","دسامبر"]
 def fadig(x): return str(x).translate(str.maketrans("0123456789", "۰۱۲۳۴۵۶۷۸۹"))
