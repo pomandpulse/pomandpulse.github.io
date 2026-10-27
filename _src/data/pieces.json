@@ -1,15 +1,33 @@
 {
- "site": {"name":"PersianPulse","tagline":"Food and health, explained with evidence","tagline_fa":"غذا و سلامت، با شواهد","handle":"@pomandpulse","url":"https://pomandpulse.github.io"},
- "pieces":[
-  {"id":"d0-carrots","slug":"do-carrots-sharpen-your-eyesight","date":"2026-10-24","topic":"Nutrition myths",
-   "title":"Do carrots sharpen your eyesight?",
-   "caption":"Do carrots sharpen your eyesight? Vitamin A is critical for vision, and carrots supply provitamin A, but the evidence links it to vision through deficiency, not super-sight. #nutrition #foodmyths",
-   "alt":"Infographic titled 'Do carrots sharpen your eyesight?' Top panel, struck through: the myth that eating lots of carrots gives sharper eyesight. Next panel: vitamin A is critical for vision and carrots supply provitamin A, but night blindness is the first sign of deficiency. Three figures: 459 mcg RAE of vitamin A in half a cup of raw carrot (51% of the Daily Value); 12 mcg dietary beta-carotene counts as 1 mcg RAE; under 1% of the US population had low serum retinol in NHANES data. Source: NIH Office of Dietary Supplements.",
-   "sources":[{"t":"NIH Office of Dietary Supplements, Vitamin A fact sheet (health professionals)","u":"https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"}],
-   "title_fa":"آیا هویج بینایی را تیزتر می‌کند؟",
-   "caption_fa":"آیا هویج بینایی را تیزتر می‌کند؟ ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شواهد آن را از راه کمبود به بینایی مربوط می‌دانند. #تغذیه #افسانه_غذایی",
-   "alt_fa":"اینفوگرافیک با عنوان «آیا هویج بینایی را تیزتر می‌کند؟». افسانه تیزتر شدن بینایی با خوردن زیاد هویج خط خورده است. ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شب‌کوری نخستین نشانه کمبود است. منبع: NIH Office of Dietary Supplements.",
-   "note":"Day 0 test post. This is the Monday flagship from Week 1, published early to test the site."}
+ "site": {
+  "name": "PersianPulse",
+  "tagline": "Food and health, explained with evidence",
+  "tagline_fa": "غذا و سلامت، با شواهد",
+  "handle": "@pomandpulse",
+  "url": "https://pomandpulse.github.io"
+ },
+ "pieces": [
+  {
+   "id": "d0-carrots",
+   "slug": "do-carrots-sharpen-your-eyesight",
+   "date": "2026-10-24",
+   "topic": "Nutrition myths",
+   "title": "Do carrots sharpen your eyesight?",
+   "caption": "Do carrots sharpen your eyesight? Vitamin A is critical for vision, and carrots supply provitamin A, but the evidence links it to vision through deficiency, not super-sight. #nutrition #foodmyths",
+   "alt": "Infographic titled 'Do carrots sharpen your eyesight?' Top panel, struck through: the myth that eating lots of carrots gives sharper eyesight. Next panel: vitamin A is critical for vision and carrots supply provitamin A, but night blindness is the first sign of deficiency. Three figures: 459 mcg RAE of vitamin A in half a cup of raw carrot (51% of the Daily Value); 12 mcg dietary beta-carotene counts as 1 mcg RAE; under 1% of the US population had low serum retinol in NHANES data. Source: NIH Office of Dietary Supplements.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin A fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+    }
+   ],
+   "title_fa": "آیا هویج بینایی را تیزتر می‌کند؟",
+   "caption_fa": "آیا هویج بینایی را تیزتر می‌کند؟ ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شواهد آن را از راه کمبود به بینایی مربوط می‌دانند. #تغذیه #افسانه_غذایی",
+   "alt_fa": "اینفوگرافیک با عنوان «آیا هویج بینایی را تیزتر می‌کند؟». افسانه تیزتر شدن بینایی با خوردن زیاد هویج خط خورده است. ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شب‌کوری نخستین نشانه کمبود است. منبع: NIH Office of Dietary Supplements.",
+   "note": "Day 0 test post. This is the Monday flagship from Week 1, published early to test the site.",
+   "topic_fa": "افسانه‌های تغذیه",
+   "note_fa": "پست آزمایشی روز صفر. این پست ویترین دوشنبه هفته ۱ است که برای آزمودن سایت زودتر منتشر شده است."
+  }
  ],
- "words":[]
+ "words": []
 }
