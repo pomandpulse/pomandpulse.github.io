@@ -189,7 +189,13 @@ footer .fbar{border-top:1px solid rgba(255,255,255,.12);padding:20px 0;display:f
 footer .fbar .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;width:100%}
 footer .fbar{display:block;padding:0}footer .fbar .wrap{padding-top:18px;padding-bottom:18px}
 body.fa .hero h1{font-size:clamp(2.1rem,4.4vw,3.3rem)}.hero h1 em{white-space:nowrap}body.fa footer li[dir=ltr]{text-align:right}
-.follow .btn{min-width:120px}@media(max-width:480px){.follow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.follow .btn{min-width:0;padding:0 8px}}
+.follow .btn{min-width:132px}@media(max-width:480px){.follow{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}.follow .btn{min-width:0;padding:0 6px;gap:6px;font-size:.88rem}}
+.btn.soc svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.btn.soc{color:#fff;border:0}.btn.th svg{width:21px;height:21px}
+.btn.ig{background:linear-gradient(45deg,#F9A24B 0%,#E1306C 50%,#833AB4 100%)}
+.btn.th{background:#1b1b1b}.btn.xx{background:#000}
+.btn.soc:hover{color:#fff;border-color:transparent;filter:brightness(1.1);box-shadow:0 8px 20px rgba(0,0,0,.28)}
+.btn.ig:hover{background:linear-gradient(45deg,#F9A24B 0%,#E1306C 50%,#833AB4 100%)}.btn.th:hover{background:#1b1b1b}.btn.xx:hover{background:#000}
 /* motion */
 .js .reveal{opacity:0;transform:translateY(18px);transition:opacity .7s var(--ease),transform .7s var(--ease)}
 .js .reveal.in{opacity:1;transform:none}
@@ -295,7 +301,7 @@ def main():
         pick = ('<span>خواندن به</span><a class="cur" href="/fa/" lang="fa">فارسی</a><a href="/" lang="en">English</a>' if fa else '<span>Read in</span><a class="cur" href="/" lang="en">English</a><a href="/fa/" lang="fa">فارسی</a>')
         pulse = '<svg class="pulse" viewBox="0 0 1200 60" preserveAspectRatio="none"><path d="M0 34 H430 L455 34 L475 8 L505 56 L530 22 L545 34 H1200"/></svg>'
         ft = f'<a class="feature" href="{pre(l)}/p/{feat["slug"]}/"><span class="badge">{u["latest_badge"]}</span><img src="/img/{feat["id"]}_{l}.jpg" width="1280" height="1600" alt="{E_(T(feat,"alt",l))}"></a>' if feat else ""
-        socials = '<a class="btn" href="https://www.instagram.com/pomandpulse/">Instagram</a><a class="btn" href="https://www.threads.net/@pomandpulse">Threads</a><a class="btn" href="https://x.com/pomandpulse">X</a>'
+        socials = '<a class="btn soc ig" href="https://www.instagram.com/pomandpulse/"><svg viewBox="0 0 24 24"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".8" fill="currentColor"/></svg>Instagram</a><a class="btn soc th" href="https://www.threads.net/@pomandpulse"><svg viewBox="0 0 24 24"><path d="M17.5 11.2c-.4-3.4-2.4-5.2-5.6-5.2-3.2 0-5.4 2.3-5.4 6s2.2 6 5.6 6c2.8 0 4.6-1.5 4.6-3.6 0-2.3-2-3.3-4.4-3.3-1.6 0-2.8.8-2.8 2 0 1 .9 1.7 2.1 1.7 1.8 0 2.8-1.2 2.8-3.4"/></svg>Threads</a><a class="btn soc xx" href="https://x.com/pomandpulse"><svg viewBox="0 0 24 24"><path d="M5 4l14 16M19 4L5 20"/></svg>X</a>'
         words = ["Glycemic index","Fiber","Probiotic","Antioxidant","Sodium"] if not fa else ["شاخص گلایسمی","فیبر","پروبیوتیک","آنتی‌اکسیدان","سدیم"]
         if len(ps) == 1:
             q = ps[0]
