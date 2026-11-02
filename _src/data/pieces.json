@@ -8,13 +8,13 @@
  },
  "pieces": [
   {
-   "id": "d0-carrots",
+   "id": "w1-mon",
    "slug": "do-carrots-sharpen-your-eyesight",
-   "date": "2026-10-24",
+   "date": "2026-10-31",
    "topic": "Nutrition myths",
    "title": "Do carrots sharpen your eyesight?",
-   "caption": "Do carrots sharpen your eyesight? Vitamin A is critical for vision, and carrots supply provitamin A, but the evidence links it to vision through deficiency, not super-sight. #nutrition #foodmyths",
-   "alt": "Infographic titled 'Do carrots sharpen your eyesight?' Top panel, struck through: the myth that eating lots of carrots gives sharper eyesight. Next panel: vitamin A is critical for vision and carrots supply provitamin A, but night blindness is the first sign of deficiency. Three figures: 459 mcg RAE of vitamin A in half a cup of raw carrot (51% of the Daily Value); 12 mcg dietary beta-carotene counts as 1 mcg RAE; under 1% of the US population had low serum retinol in NHANES data. Source: NIH Office of Dietary Supplements.",
+   "caption": "Do carrots sharpen your eyesight? Vitamin A is critical for vision, and carrots supply provitamin A, but the evidence links it to vision through deficiency, not super-sight. Save for later. #nutrition #foodmyths",
+   "alt": "Infographic titled 'Do carrots sharpen your eyesight?' Top panel, struck through: the myth that eating lots of carrots gives sharper eyesight. Next panel: vitamin A is critical for vision and carrots supply provitamin A, but night blindness is the first sign of deficiency. Three figures: 459 mcg RAE of vitamin A in half a cup of raw carrot (51% of the Daily Value); 12 mcg dietary beta-carotene counts as 1 mcg RAE; under 1% of the US population had low serum retinol in NHANES data. Source: NIH Office of Dietary Supplements. Footer: educational content, not medical advice.",
    "sources": [
     {
      "t": "NIH Office of Dietary Supplements, Vitamin A fact sheet (health professionals)",
@@ -23,10 +23,146 @@
    ],
    "title_fa": "آیا هویج بینایی را تیزتر می‌کند؟",
    "caption_fa": "آیا هویج بینایی را تیزتر می‌کند؟ ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شواهد آن را از راه کمبود به بینایی مربوط می‌دانند. #تغذیه #افسانه_غذایی",
-   "alt_fa": "اینفوگرافیک با عنوان «آیا هویج بینایی را تیزتر می‌کند؟». افسانه تیزتر شدن بینایی با خوردن زیاد هویج خط خورده است. ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شب‌کوری نخستین نشانه کمبود است. منبع: NIH Office of Dietary Supplements.",
-   "note": "Day 0 test post. This is the Monday flagship from Week 1, published early to test the site.",
-   "topic_fa": "افسانه‌های تغذیه",
-   "note_fa": "پست آزمایشی روز صفر. این پست ویترین دوشنبه هفته ۱ است که برای آزمودن سایت زودتر منتشر شده است."
+   "alt_fa": "اینفوگرافیک با عنوان «آیا هویج بینایی را تیزتر می‌کند؟». پنل بالایی با خط خوردگی: افسانه تیزتر شدن بینایی با خوردن زیاد هویج. پنل بعدی: ویتامین A برای بینایی ضروری است و هویج پرووتیتامین A دارد، اما شب‌کوری نخستین نشانه کمبود است. سه عدد: ۴۵۹ میکروگرم RAE ویتامین A در نیم فنجان هویج خام (۵۱٪ مقدار روزانه)، ۱۲ میکروگرم بتاکاروتن غذایی معادل ۱ میکروگرم RAE، و کمتر از ۱٪ جمعیت آمریکا با رتینول سرم پایین در داده‌های NHANES. منبع: NIH Office of Dietary Supplements. پاورقی: محتوای آموزشی است و توصیه پزشکی نیست.",
+   "topic_fa": "افسانه‌های تغذیه"
+  },
+  {
+   "id": "w1-tue",
+   "slug": "orange-or-red-pepper-which-has-more-vitamin-c",
+   "date": "2026-11-01",
+   "topic": "Food facts",
+   "title": "Orange or red pepper: which has more vitamin C?",
+   "caption": "Orange or red pepper? Per serving, ½ cup of raw red pepper (95 mg) has more vitamin C than one medium orange (70 mg). Compare per serving. Save this for your next shop. Which would you have guessed? #nutrition #vitaminC",
+   "alt": "Infographic. Orange or red pepper: which has more vitamin C? Vitamin C per serving, from the NIH food table. Bar chart: Red pepper, raw (½ cup): 95 mg, 106% DV; Orange juice (¾ cup): 93 mg, 103% DV; Orange (1 medium): 70 mg, 78% DV; Kiwifruit (1 medium): 64 mg, 71% DV; Broccoli, cooked (½ cup): 51 mg, 57% DV; Strawberries, sliced (½ cup): 49 mg, 54% DV. Daily Value for vitamin C is 90 mg; adult RDA is 90 mg for men and 75 mg for women. Many fruits and vegetables supply vitamin C. Serving sizes differ, so compare per serving. Source: NIH Office of Dietary Supplements.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin C fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+    }
+   ],
+   "title_fa": "پرتقال یا فلفل دلمه‌ای قرمز: کدام ویتامین C بیشتری دارد؟",
+   "caption_fa": "پرتقال یا فلفل دلمه‌ای قرمز؟ در هر وعده، نیم فنجان فلفل دلمه‌ای قرمز خام (۹۵ میلی‌گرم) ویتامین C بیشتری از یک پرتقال متوسط (۷۰ میلی‌گرم) دارد. وعده‌ها را مقایسه کنید. برای خرید بعدی ذخیره کنید. حدس شما چه بود؟ #تغذیه #ویتامین_C",
+   "alt_fa": "اینفوگرافیک. پرتقال یا فلفل دلمه‌ای قرمز: کدام ویتامین C بیشتری دارد؟ ویتامین C در هر وعده، از جدول غذایی NIH. نمودار میله‌ای: فلفل دلمه‌ای قرمز خام (نیم فنجان): ۹۵ میلی‌گرم, ۱۰۶٪ مقدار روزانه; آب پرتقال (سه‌چهارم فنجان): ۹۳ میلی‌گرم, ۱۰۳٪ مقدار روزانه; پرتقال (۱ عدد متوسط): ۷۰ میلی‌گرم, ۷۸٪ مقدار روزانه; کیوی (۱ عدد متوسط): ۶۴ میلی‌گرم, ۷۱٪ مقدار روزانه; بروکلی پخته (نیم فنجان): ۵۱ میلی‌گرم, ۵۷٪ مقدار روزانه; توت‌فرنگی ورقه‌شده (نیم فنجان): ۴۹ میلی‌گرم, ۵۴٪ مقدار روزانه. مقدار روزانه ویتامین C برابر ۹۰ میلی‌گرم و RDA بزرگسالان ۹۰ برای مردان و ۷۵ برای زنان است. بسیاری از میوه‌ها و سبزی‌ها ویتامین C دارند. اندازه وعده‌ها فرق می‌کند، پس هر وعده را با هم مقایسه کنید. منبع: NIH Office of Dietary Supplements.",
+   "topic_fa": "واقعیت‌های غذایی"
+  },
+  {
+   "id": "w1-wed",
+   "slug": "lemony-lentil-and-spinach-soup",
+   "date": "2026-11-02",
+   "topic": "Recipes",
+   "title": "Lemony lentil and spinach soup",
+   "caption": "New recipe: lemony lentil and spinach soup. Serves 4, about 40 minutes. The lemon adds vitamin C, which enhances absorption of plant iron (NIH). Full steps in the carousel. Save it for a cold evening. What do you add to your lentils? #recipe #lentils",
+   "alt": "Infographic. Lemony lentil and spinach soup, Original PersianPulse recipe · serves 4 · about 40 minutes. Ingredients: 1 cup (about 200 g) brown lentils, rinsed; 1 tbsp olive oil; 1 medium onion, chopped; 3 cloves garlic, minced; 1 tsp ground cumin; ½ tsp ground turmeric; 5 cups vegetable broth or water; 5 oz (about 150 g) fresh spinach; 1 lemon, juiced; to taste salt and black pepper. Method: 1. Heat the oil and soften the onion for 5 minutes. Stir in the garlic, cumin and turmeric for 1 minute. 2. Add the lentils and liquid. Bring to a boil, then simmer 25 to 30 minutes until tender. 3. Stir in the spinach for 2 minutes until wilted. 4. Finish with the lemon juice, salt and pepper. Serve hot. A squeeze of lemon adds vitamin C, which enhances absorption of the plant iron in lentils and spinach. Sources: NIH ODS Iron and Folate fact sheets.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Iron fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Folate fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Folate-HealthProfessional/"
+    }
+   ],
+   "title_fa": "سوپ عدس و اسفناج با لیمو",
+   "caption_fa": "دستور تازه: سوپ عدس و اسفناج با لیمو. برای ۴ نفر، حدود ۴۰ دقیقه. لیمو ویتامین C اضافه می‌کند که جذب آهن گیاهی را بهتر می‌کند (NIH). مراحل کامل در اسلایدها. برای یک شب سرد ذخیره کنید. شما به عدس چه اضافه می‌کنید؟ #دستور_پخت #عدس",
+   "alt_fa": "اینفوگرافیک. سوپ عدس و اسفناج با لیمو, دستور اصیل PersianPulse · برای ۴ نفر · حدود ۴۰ دقیقه. مواد لازم: ۱ فنجان (حدود ۲۰۰ گرم) عدس قهوه‌ای، شسته‌شده; ۱ قاشق غذاخوری روغن زیتون; ۱ عدد پیاز متوسط، خردشده; ۳ حبه سیر، ریزخردشده; ۱ قاشق چای‌خوری زیره سبز آسیاب‌شده; نیم قاشق چای‌خوری زردچوبه; ۵ فنجان آب سبزیجات یا آب; ۵ اونس (حدود ۱۵۰ گرم) اسفناج تازه; ۱ عدد لیمو ترش، آب‌گرفته; به‌میزان لازم نمک و فلفل سیاه. روش: 1. روغن را گرم کنید و پیاز را ۵ دقیقه تفت دهید تا نرم شود. سیر، زیره و زردچوبه را ۱ دقیقه هم بزنید. 2. عدس و مایع را اضافه کنید. بجوشانید، سپس ۲۵ تا ۳۰ دقیقه با حرارت ملایم بپزید تا نرم شود. 3. اسفناج را اضافه کنید و ۲ دقیقه هم بزنید تا جمع شود. 4. آب لیمو، نمک و فلفل را اضافه کنید و داغ سرو کنید. کمی آب لیمو ویتامین C اضافه می‌کند که به جذب آهن گیاهی عدس و اسفناج کمک می‌کند. منبع: برگه‌های اطلاعات آهن و فولات NIH ODS.",
+   "topic_fa": "دستور پخت"
+  },
+  {
+   "id": "w1-thu",
+   "slug": "do-multivitamins-prevent-disease",
+   "date": "2026-11-03",
+   "topic": "Evidence desk",
+   "title": "Do multivitamins prevent disease?",
+   "caption": "Do multivitamins prevent disease? NIH says they do not appear to reliably reduce chronic disease risk in healthy adults, though some people have specific needs. Evidence level: limited. Details in the carousel. Do you take one? #nutrition #supplements",
+   "alt": "Infographic. Do multivitamins prevent disease? Evidence meter: Limited for preventing chronic disease in healthy adults. WHAT THE RESEARCH FOUND: NIH: multivitamins do not appear to reliably reduce the risk of chronic diseases. Physicians' Health Study II (about 14,600 men, median 11.2 years): 8% lower cancer risk, no fewer major cardiovascular events. WHO MAY BENEFIT: People with restricted diets, such as strict vegan diets. Women who could become pregnant (400 mcg folic acid a day). Adults 50 and older, who may need vitamin B12 from fortified foods or supplements. BE CAREFUL: Stacking supplements and fortified foods can push intake above upper limits. Smokers are advised to avoid products with large amounts of beta-carotene or vitamin A. Ask a health professional first, especially if you take warfarin. Food comes first. Multivitamins do not appear to reliably prevent chronic disease, but some people have specific needs. Source: NIH Office of Dietary Supplements.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Multivitamin/mineral supplements fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/MVMS-HealthProfessional/"
+    }
+   ],
+   "title_fa": "آیا مولتی‌ویتامین‌ها از بیماری پیشگیری می‌کنند؟",
+   "caption_fa": "آیا مولتی‌ویتامین‌ها از بیماری پیشگیری می‌کنند؟ NIH می‌گوید به نظر نمی‌رسد خطر بیماری مزمن را در بزرگسالان سالم به‌طور قابل‌اعتماد کم کنند، هرچند برخی افراد نیاز ویژه دارند. سطح شواهد: محدود. جزئیات در اسلایدها. شما مصرف می‌کنید؟ #تغذیه #مکمل",
+   "alt_fa": "اینفوگرافیک. آیا مولتی‌ویتامین‌ها از بیماری پیشگیری می‌کنند؟ درجه شواهد: محدود برای پیشگیری از بیماری‌های مزمن در بزرگسالان سالم. یافته‌های پژوهش: NIH: به نظر نمی‌رسد مولتی‌ویتامین‌ها خطر بیماری‌های مزمن را به‌طور قابل‌اعتماد کم کنند. مطالعه سلامت پزشکان ۲ (حدود ۱۴٬۶۰۰ مرد، میانه ۱۱٫۲ سال): ۸٪ خطر کمتر سرطان، بدون کاهش رویدادهای قلبی-عروقی مهم. چه کسانی ممکن است سود ببرند: افراد با رژیم‌های محدود، مانند رژیم کاملاً گیاهی. زنانی که ممکن است باردار شوند (۴۰۰ میکروگرم فولیک‌اسید در روز). بزرگسالان ۵۰ سال به بالا که ممکن است به ویتامین B12 از غذاهای غنی‌شده یا مکمل نیاز داشته باشند. احتیاط: مصرف هم‌زمان چند مکمل و غذای غنی‌شده می‌تواند مصرف را از حد بالای مجاز فراتر ببرد. به سیگاری‌ها توصیه می‌شود از محصولات حاوی مقدار زیاد بتاکاروتن یا ویتامین A پرهیز کنند. پیش از مصرف از متخصص سلامت بپرسید، به‌ویژه اگر وارفارین مصرف می‌کنید. منبع: NIH Office of Dietary Supplements.",
+   "topic_fa": "میز شواهد"
+  },
+  {
+   "id": "w1-fri",
+   "slug": "are-bananas-the-best-source-of-potassium",
+   "date": "2026-11-04",
+   "topic": "Nutrition myths",
+   "title": "Are bananas the best source of potassium?",
+   "caption": "Are bananas the best potassium source? A banana has 422 mg, but 1 cup of cooked lentils has 731 mg and a baked potato (flesh) has 610 mg (NIH). Bananas still count! Save this. Which one surprised you? #nutrition #potassium",
+   "alt": "Infographic. Are bananas the best source of potassium? Potassium per serving, from the NIH food table (Daily Value: 4,700 mg). Bar chart: Lentils, cooked (1 cup): 731 mg, 16% DV; Potato, baked (flesh) (1 medium): 610 mg, 13% DV; Banana (1 medium): 422 mg, 9% DV; Spinach, raw (2 cups): 334 mg, 7% DV; Yogurt, fruit, nonfat (6 oz): 330 mg, 7% DV. Myth, struck through: Bananas are the best potassium source. Evidence: Bananas are a good source, but several foods supply more per serving. Potassium comes from many foods. Lentils, potatoes and bananas all count. Source: NIH Office of Dietary Supplements.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Potassium fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+    }
+   ],
+   "title_fa": "آیا موز بهترین منبع پتاسیم است؟",
+   "caption_fa": "آیا موز بهترین منبع پتاسیم است؟ یک موز ۴۲۲ میلی‌گرم دارد، اما ۱ فنجان عدس پخته ۷۳۱ و یک سیب‌زمینی پخته (مغز) ۶۱۰ میلی‌گرم دارد (NIH). موز هم سهم دارد! ذخیره کنید. کدام‌یک شما را شگفت‌زده کرد؟ #تغذیه #پتاسیم",
+   "alt_fa": "اینفوگرافیک. آیا موز بهترین منبع پتاسیم است؟ پتاسیم در هر وعده، از جدول غذایی NIH (مقدار روزانه: ۴٬۷۰۰ میلی‌گرم). نمودار میله‌ای: عدس پخته (۱ فنجان): ۷۳۱ میلی‌گرم, ۱۶٪ مقدار روزانه; سیب‌زمینی پخته (مغز) (۱ عدد متوسط): ۶۱۰ میلی‌گرم, ۱۳٪ مقدار روزانه; موز (۱ عدد متوسط): ۴۲۲ میلی‌گرم, ۹٪ مقدار روزانه; اسفناج خام (۲ فنجان): ۳۳۴ میلی‌گرم, ۷٪ مقدار روزانه; ماست میوه‌ای بدون چربی (۶ اونس): ۳۳۰ میلی‌گرم, ۷٪ مقدار روزانه. افسانه (خط‌خورده): موز بهترین منبع پتاسیم است. شواهد: موز منبع خوبی است، اما چند غذای دیگر در هر وعده پتاسیم بیشتری دارند. پتاسیم در غذاهای زیادی هست. عدس، سیب‌زمینی و موز همگی سهم دارند. منبع: NIH Office of Dietary Supplements.",
+   "topic_fa": "افسانه‌های تغذیه"
+  },
+  {
+   "id": "w1-sat",
+   "slug": "which-of-these-counts-as-a-pulse",
+   "date": "2026-11-05",
+   "topic": "Quiz",
+   "title": "Which of these counts as a pulse?",
+   "caption": "Poll time: which of these counts as a pulse? A) Green beans B) Lentils C) Soybeans D) Peanuts. Vote in the poll and tell us why. The answer is in tomorrow's recap. #foodquiz #nutrition",
+   "alt": "Infographic. Which of these counts as a pulse? Options: Green beans; Lentils; Soybeans; Peanuts. Hint: pulses are legumes harvested for their dry seeds. Source: FAO.",
+   "sources": [
+    {
+     "t": "FAO, definition and classification of pulses",
+     "u": "https://www.fao.org/3/bl797e/bl797e.pdf"
+    }
+   ],
+   "title_fa": "کدام یک جزو «حبوبات» (pulses) است؟",
+   "caption_fa": "وقت نظرسنجی: کدام یک جزو حبوبات (pulses) است؟ الف) لوبیا سبز ب) عدس ج) سویا د) بادام‌زمینی. رأی بدهید و دلیلتان را بنویسید. پاسخ در مرور فردا است. #آزمون_غذایی #تغذیه",
+   "alt_fa": "اینفوگرافیک. کدام یک جزو «حبوبات» (pulses) است؟ گزینه‌ها: لوبیا سبز; عدس; سویا; بادام‌زمینی. راهنمایی: حبوبات گیاهان خانواده نخود و لوبیا هستند که برای دانه خشکشان برداشت می‌شوند. منبع: FAO.",
+   "topic_fa": "آزمون"
+  },
+  {
+   "id": "w1-sun",
+   "slug": "week-1-in-five-facts",
+   "date": "2026-11-06",
+   "topic": "Weekly recap",
+   "title": "Week 1 in five facts",
+   "caption": "Week 1 in five facts, plus the poll answer: B, lentils. Pulses are legumes harvested for dry seeds (FAO). Which fact surprised you most? Tell us what to check next. #weeklyrecap #nutrition",
+   "alt": "Infographic. Week 1 in five facts. Plus the answer to Thursday's poll. 1. Carrots: Vitamin A matters for vision through deficiency, not super-sight. 2. Vitamin C: ½ cup of raw red pepper (95 mg) beats one medium orange (70 mg). 3. Multivitamins: They do not appear to reliably reduce chronic disease risk, per NIH. 4. Potassium: 1 cup of lentils (731 mg) and a baked potato (610 mg) top one banana (422 mg). 5. Plant iron: Vitamin C enhances absorption of iron from plant foods. POLL ANSWER: B, lentils. Pulses are legumes harvested for dry seeds. Green beans, soybeans and peanuts are not counted as pulses (FAO). Next week brings new myth checks, food facts and recipes. Sources: NIH ODS fact sheets and FAO.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin A fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin C fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminC-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Iron fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Potassium fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Multivitamin/mineral supplements fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/MVMS-HealthProfessional/"
+    },
+    {
+     "t": "FAO, definition and classification of pulses",
+     "u": "https://www.fao.org/3/bl797e/bl797e.pdf"
+    }
+   ],
+   "title_fa": "هفته اول در پنج نکته",
+   "caption_fa": "هفته اول در پنج نکته، به‌علاوه پاسخ نظرسنجی: ب، عدس. حبوبات گیاهانی هستند که دانه خشکشان برداشت می‌شود (FAO). کدام نکته شما را بیشتر شگفت‌زده کرد؟ بگویید بعد چه چیزی را بررسی کنیم. #مرور_هفته #تغذیه",
+   "alt_fa": "اینفوگرافیک. هفته اول در پنج نکته. به‌علاوه پاسخ نظرسنجی پنجشنبه. 1. هویج: ویتامین A از راه کمبود به بینایی مربوط است، نه «بینایی فوق‌العاده». 2. ویتامین C: نیم فنجان فلفل دلمه‌ای قرمز خام (۹۵ میلی‌گرم) از یک پرتقال متوسط (۷۰ میلی‌گرم) بیشتر دارد. 3. مولتی‌ویتامین‌ها: طبق NIH به نظر نمی‌رسد خطر بیماری‌های مزمن را به‌طور قابل‌اعتماد کم کنند. 4. پتاسیم: ۱ فنجان عدس (۷۳۱ میلی‌گرم) و یک سیب‌زمینی پخته (۶۱۰ میلی‌گرم) از یک موز (۴۲۲ میلی‌گرم) بیشترند. 5. آهن گیاهی: ویتامین C جذب آهن از غذاهای گیاهی را بهتر می‌کند. پاسخ نظرسنجی: ب، عدس. حبوبات گیاهانی از خانواده نخود و لوبیا هستند که دانه خشکشان برداشت می‌شود. لوبیا سبز، سویا و بادام‌زمینی جزو حبوبات حساب نمی‌شوند (FAO). هفته بعد بررسی افسانه‌ها، واقعیت‌های غذایی و دستورهای تازه می‌آید. منبع: برگه‌های NIH ODS و FAO.",
+   "topic_fa": "مرور هفته"
   }
  ],
  "words": []
