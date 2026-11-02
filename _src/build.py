@@ -2,7 +2,7 @@
 """PersianPulse static site builder (stdlib only).
 Usage: python3 _src/build.py --out _site [--through YYYY-MM-DD]
 Reads _src/data/pieces.json. Publishes pieces dated on or before the cutoff
-(default: most recent Saturday on/before yesterday, Pacific time)."""
+(default: today, Pacific time)."""
 import argparse, json, shutil, html, hashlib, datetime as dt
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -10,8 +10,8 @@ SRC = Path(__file__).parent
 E_ = html.escape
 
 def cutoff_default():
-    y = (dt.datetime.now(ZoneInfo("America/Los_Angeles")) - dt.timedelta(days=1)).date()
-    return y - dt.timedelta(days=(y.weekday() - 5) % 7)
+    """Daily publishing: a piece goes live on its own date (Pacific time). The site rebuilds every day at 08:00 PT."""
+    return dt.datetime.now(ZoneInfo("America/Los_Angeles")).date()
 
 CSS = """
 @font-face{font-family:Lora;src:url(/assets/fonts/Lora-Variable.ttf);font-weight:400 700;font-display:swap}

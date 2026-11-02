@@ -163,6 +163,171 @@
    "caption_fa": "هفته اول در پنج نکته، به‌علاوه پاسخ نظرسنجی: ب، عدس. حبوبات گیاهانی هستند که دانه خشکشان برداشت می‌شود (FAO). کدام نکته شما را بیشتر شگفت‌زده کرد؟ بگویید بعد چه چیزی را بررسی کنیم. #مرور_هفته #تغذیه",
    "alt_fa": "اینفوگرافیک. هفته اول در پنج نکته. به‌علاوه پاسخ نظرسنجی پنجشنبه. 1. هویج: ویتامین A از راه کمبود به بینایی مربوط است، نه «بینایی فوق‌العاده». 2. ویتامین C: نیم فنجان فلفل دلمه‌ای قرمز خام (۹۵ میلی‌گرم) از یک پرتقال متوسط (۷۰ میلی‌گرم) بیشتر دارد. 3. مولتی‌ویتامین‌ها: طبق NIH به نظر نمی‌رسد خطر بیماری‌های مزمن را به‌طور قابل‌اعتماد کم کنند. 4. پتاسیم: ۱ فنجان عدس (۷۳۱ میلی‌گرم) و یک سیب‌زمینی پخته (۶۱۰ میلی‌گرم) از یک موز (۴۲۲ میلی‌گرم) بیشترند. 5. آهن گیاهی: ویتامین C جذب آهن از غذاهای گیاهی را بهتر می‌کند. پاسخ نظرسنجی: ب، عدس. حبوبات گیاهانی از خانواده نخود و لوبیا هستند که دانه خشکشان برداشت می‌شود. لوبیا سبز، سویا و بادام‌زمینی جزو حبوبات حساب نمی‌شوند (FAO). هفته بعد بررسی افسانه‌ها، واقعیت‌های غذایی و دستورهای تازه می‌آید. منبع: برگه‌های NIH ODS و FAO.",
    "topic_fa": "مرور هفته"
+  },
+  {
+   "id": "w2-sat",
+   "slug": "where-does-vitamin-d-come-from",
+   "date": "2026-11-07",
+   "topic": "Food facts",
+   "title": "Where does vitamin D come from?",
+   "caption": "Where does vitamin D come from? Few foods have it naturally. Per serving, 3 oz of farmed trout has 16.2 mcg (81% DV) and sockeye salmon 14.2 mcg (71%). Save this for your next shop. Which of these do you eat? #nutrition #vitaminD",
+   "alt": "Infographic. Where does vitamin D come from?. Few foods have it naturally. Amounts per serving, from the NIH table.. Bar chart: Rainbow trout, farmed, cooked (3 oz): 16.2 mcg, 81% DV; Sockeye salmon, cooked (3 oz): 14.2 mcg, 71% DV; White mushrooms, UV-exposed (½ cup, sliced): 9.2 mcg, 46% DV; Milk, 2%, fortified (1 cup): 2.9 mcg, 15% DV; Fortified cereal (1 serving): 2 mcg, 10% DV; Egg, scrambled (1 large): 1.1 mcg, 6% DV. 20 mcg: Daily Value for vitamin D (800 IU). 15 mcg: Adult RDA, ages 19 to 70 (600 IU). Fatty fish, UV-exposed mushrooms and fortified foods lead the list. Compare per serving. Sources: NIH Office of Dietary Supplements; FDA.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin D fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+    },
+    {
+     "t": "FDA, Daily Value on the Nutrition and Supplement Facts labels",
+     "u": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels"
+    }
+   ],
+   "title_fa": "ویتامین D از کجا می‌آید؟",
+   "caption_fa": "ویتامین D از کجا می‌آید؟ غذاهای کمی آن را به‌طور طبیعی دارند. در هر وعده، ۳ اونس قزل‌آلای پرورشی ۱۶٫۲ میکروگرم (۸۱٪ مقدار روزانه) و سالمون سوکای ۱۴٫۲ میکروگرم (۷۱٪) دارد. ذخیره کنید. کدام را می‌خورید؟ #تغذیه #ویتامین_D",
+   "alt_fa": "اینفوگرافیک. ویتامین D از کجا می‌آید؟. غذاهای کمی آن را به‌طور طبیعی دارند. مقدار در هر وعده، از جدول NIH.. نمودار میله‌ای: قزل‌آلای پرورشی پخته (۳ اونس): ۱۶٫۲ میکروگرم, ۸۱٪ مقدار روزانه; ماهی سالمون سوکای پخته (۳ اونس): ۱۴٫۲ میکروگرم, ۷۱٪ مقدار روزانه; قارچ سفید در معرض نور فرابنفش (نیم فنجان، ورقه): ۹٫۲ میکروگرم, ۴۶٪ مقدار روزانه; شیر ۲٪ غنی‌شده (۱ فنجان): ۲٫۹ میکروگرم, ۱۵٪ مقدار روزانه; غلات صبحانه غنی‌شده (۱ وعده): ۲ میکروگرم, ۱۰٪ مقدار روزانه; تخم‌مرغ همزده (۱ عدد بزرگ): ۱٫۱ میکروگرم, ۶٪ مقدار روزانه. ۲۰ میکروگرم: مقدار روزانه ویتامین D (۸۰۰ IU). ۱۵ میکروگرم: RDA بزرگسالان ۱۹ تا ۷۰ سال (۶۰۰ IU). ماهی چرب، قارچ در معرض نور فرابنفش و غذاهای غنی‌شده در صدر فهرست‌اند. وعده‌ها را مقایسه کنید. منبع: NIH Office of Dietary Supplements; FDA.",
+   "topic_fa": "واقعیت‌های غذایی"
+  },
+  {
+   "id": "w2-sun",
+   "slug": "calcium-beyond-milk",
+   "date": "2026-11-08",
+   "topic": "Food facts",
+   "title": "Calcium beyond milk",
+   "caption": "Calcium beyond milk: per serving, 8 oz of plain low-fat yogurt has 415 mg (32% DV), and ½ cup of firm tofu made with calcium sulfate has 253 mg (19%). Check the label on tofu. Save this for your next shop. Which is your go-to? #nutrition #calcium",
+   "alt": "Infographic. Calcium beyond milk. Calcium per serving, from the NIH table. Bar chart: Yogurt, plain, low-fat (8 oz): 415 mg, 32% DV; Orange juice, calcium-fortified (1 cup): 349 mg, 27% DV; Sardines, canned, with bones (3 oz): 325 mg, 25% DV; Soymilk, calcium-fortified (1 cup): 299 mg, 23% DV; Tofu, firm, calcium sulfate (½ cup): 253 mg, 19% DV; Salmon, pink, canned, with bones (3 oz): 181 mg, 14% DV; Bok choy, raw, shredded (1 cup): 74 mg, 6% DV. CHECK THE LABEL: Tofu has a lot of calcium only if it is made with calcium salts such as calcium sulfate. DAILY VALUE: 1,300 mg of calcium. 20% DV or more is high. Dairy, fortified drinks, canned fish with bones and calcium-set tofu all count. Compare per serving. Sources: NIH Office of Dietary Supplements; FDA.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Calcium fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    },
+    {
+     "t": "FDA, Daily Value on the Nutrition and Supplement Facts labels",
+     "u": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels"
+    }
+   ],
+   "title_fa": "کلسیم فراتر از شیر",
+   "caption_fa": "کلسیم فراتر از شیر: در هر وعده، ۸ اونس ماست ساده کم‌چرب ۴۱۵ میلی‌گرم (۳۲٪ مقدار روزانه) و نیم فنجان توفوی سفت با کلسیم سولفات ۲۵۳ میلی‌گرم (۱۹٪) دارد. برچسب توفو را بخوانید. ذخیره کنید. انتخاب همیشگی شما کدام است؟ #تغذیه #کلسیم",
+   "alt_fa": "اینفوگرافیک. کلسیم فراتر از شیر. کلسیم در هر وعده، از جدول NIH. نمودار میله‌ای: ماست ساده کم‌چرب (۸ اونس): ۴۱۵ میلی‌گرم, ۳۲٪ مقدار روزانه; آب پرتقال غنی‌شده با کلسیم (۱ فنجان): ۳۴۹ میلی‌گرم, ۲۷٪ مقدار روزانه; ساردین کنسروی با استخوان (۳ اونس): ۳۲۵ میلی‌گرم, ۲۵٪ مقدار روزانه; شیر سویا غنی‌شده با کلسیم (۱ فنجان): ۲۹۹ میلی‌گرم, ۲۳٪ مقدار روزانه; توفوی سفت (با کلسیم سولفات) (نیم فنجان): ۲۵۳ میلی‌گرم, ۱۹٪ مقدار روزانه; سالمون صورتی کنسروی با استخوان (۳ اونس): ۱۸۱ میلی‌گرم, ۱۴٪ مقدار روزانه; بوک‌چوی خام خرد‌شده (۱ فنجان): ۷۴ میلی‌گرم, ۶٪ مقدار روزانه. برچسب را بخوانید: توفو فقط وقتی کلسیم زیادی دارد که با نمک‌های کلسیم مانند کلسیم سولفات تهیه شده باشد. مقدار روزانه: ۱٬۳۰۰ میلی‌گرم کلسیم. ۲۰٪ مقدار روزانه یا بیشتر یعنی زیاد. لبنیات، نوشیدنی‌های غنی‌شده، ماهی کنسروی با استخوان و توفوی تهیه‌شده با کلسیم همگی حساب می‌شوند. وعده‌ها را مقایسه کنید. منبع: NIH Office of Dietary Supplements; FDA.",
+   "topic_fa": "واقعیت‌های غذایی"
+  },
+  {
+   "id": "w2-mon",
+   "slug": "fiber-explained",
+   "date": "2026-11-09",
+   "topic": "Explainers",
+   "title": "Fiber, explained",
+   "caption": "Fiber, explained: soluble dissolves in water, insoluble does not. The Daily Value is 28 g; 20% DV or more per serving is high. A serving with 7 g is 25% DV. Save this for label reading. Which high-fiber food do you love? #nutrition #fiber",
+   "alt": "Infographic. Fiber, explained. What it is, the two types, and how to read it on a label. SOLUBLE FIBER: Dissolves in water to form a gel-like substance. Bacteria break it down in the large intestine. INSOLUBLE FIBER: Does not dissolve in water and may pass through the digestive tract relatively intact. 28 g: Daily Value for fiber, based on 2,000 calories. 5% | 20%: 5% DV or less is low. 20% DV or more is high.. WORKED EXAMPLE: A serving with 7 g of fiber is 25% of the Daily Value (7 ÷ 28), so it is a HIGH source. Fiber is a carbohydrate the small intestine cannot easily digest. Use %DV to compare foods per serving. Sources: FDA.",
+   "sources": [
+    {
+     "t": "FDA, Interactive Nutrition Facts Label: Dietary Fiber",
+     "u": "https://www.accessdata.fda.gov/scripts/interactiveNutritionFactsLabel/dietary-fiber.cfm"
+    },
+    {
+     "t": "FDA, Daily Value on the Nutrition and Supplement Facts labels",
+     "u": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels"
+    }
+   ],
+   "title_fa": "فیبر را بشناسیم",
+   "caption_fa": "فیبر را بشناسیم: فیبر محلول در آب حل می‌شود، نامحلول نه. مقدار روزانه ۲۸ گرم است؛ ۲۰٪ یا بیشتر در هر وعده یعنی زیاد. وعده‌ای با ۷ گرم فیبر ۲۵٪ مقدار روزانه است. برای خواندن برچسب ذخیره کنید. کدام غذای پرفیبر را دوست دارید؟ #تغذیه #فیبر",
+   "alt_fa": "اینفوگرافیک. فیبر را بشناسیم. چیست، دو نوع آن و چگونه روی برچسب بخوانیم. فیبر محلول: در آب حل می‌شود و ماده‌ای ژل‌مانند می‌سازد. باکتری‌ها آن را در روده بزرگ تجزیه می‌کنند. فیبر نامحلول: در آب حل نمی‌شود و ممکن است نسبتاً دست‌نخورده از دستگاه گوارش عبور کند. ۲۸ گرم: مقدار روزانه فیبر، بر پایه ۲٬۰۰۰ کالری. ۵٪ | ۲۰٪: ۵٪ یا کمتر یعنی کم. ۲۰٪ یا بیشتر یعنی زیاد.. یک مثال محاسباتی: وعده‌ای با ۷ گرم فیبر ۲۵٪ مقدار روزانه است (۷ ÷ ۲۸)، پس منبع زیاد حساب می‌شود. فیبر کربوهیدراتی است که روده کوچک به‌سختی آن را هضم می‌کند. برای مقایسه غذاها از درصد مقدار روزانه در هر وعده استفاده کنید. منبع: FDA.",
+   "topic_fa": "توضیح‌های ساده"
+  },
+  {
+   "id": "w2-tue",
+   "slug": "shirazi-salad",
+   "date": "2026-11-10",
+   "topic": "Recipes",
+   "title": "Shirazi salad",
+   "caption": "Shirazi salad: diced cucumber, tomato and red onion with lime juice, dried mint and olive oil. 15 minutes, no cooking. Dress it just before serving so it stays crisp. Full recipe in the infographic and carousel. Do you add mint? #recipe #saladeshirazi",
+   "alt": "Infographic. Shirazi salad. A fresh, no-cook Persian salad for four. 15 min prep. 4 servings. 0 cooking. Ingredients: 4 small Persian cucumbers, diced; 3 medium tomatoes, diced; ½ small red onion, finely diced; 3 tbsp fresh lime juice; 1 tbsp dried mint; 2 tbsp olive oil; ½ tsp salt. Method: 1. Dice the cucumbers, tomatoes and onion into small, even cubes. 2. Whisk the lime juice, olive oil, dried mint and salt in a small bowl. 3. Toss the vegetables with the dressing just before serving. 4. Serve right away, with a little extra mint on top. Dress it just before serving: salt draws water out of the vegetables. Sources: Original PersianPulse recipe.",
+   "sources": [
+    {
+     "t": "Original PersianPulse recipe, based on the traditional Shirazi salad",
+     "u": "https://pomandpulse.github.io/"
+    }
+   ],
+   "title_fa": "سالاد شیرازی",
+   "caption_fa": "سالاد شیرازی: خیار، گوجه‌فرنگی و پیاز قرمز ریز با آب‌لیمو، نعنا خشک و روغن زیتون. ۱۵ دقیقه، بدون پخت. درست پیش از سرو سس بزنید تا ترد بماند. دستور کامل در اینفوگرافیک و اسلایدها. نعنا اضافه می‌کنید؟ #دستور_پخت #سالاد_شیرازی",
+   "alt_fa": "اینفوگرافیک. سالاد شیرازی. سالاد تازه ایرانی بدون پخت برای چهار نفر. ۱۵ دقیقه آماده‌سازی. ۴ نفر. ۰ پخت. مواد لازم: ۴ عدد کوچک خیار ایرانی، ریز خرد‌شده; ۳ عدد متوسط گوجه‌فرنگی، ریز خرد‌شده; نصف عدد کوچک پیاز قرمز، بسیار ریز; ۳ قاشق غذاخوری آب‌لیمو تازه; ۱ قاشق غذاخوری نعنا خشک; ۲ قاشق غذاخوری روغن زیتون; نیم قاشق چای‌خوری نمک. روش: 1. خیار، گوجه‌فرنگی و پیاز را به مکعب‌های کوچک و هم‌اندازه خرد کنید. 2. آب‌لیمو، روغن زیتون، نعنا خشک و نمک را در کاسه‌ای کوچک هم بزنید. 3. درست پیش از سرو، سبزی‌ها را با سس مخلوط کنید. 4. بلافاصله سرو کنید و کمی نعنا روی آن بپاشید. درست پیش از سرو سس بزنید: نمک از سبزی‌ها آب بیرون می‌کشد. منبع: دستور اصیل پرشین‌پالس.",
+   "topic_fa": "دستور پخت"
+  },
+  {
+   "id": "w2-wed",
+   "slug": "plant-omega-3-vs-fish-omega-3",
+   "date": "2026-11-11",
+   "topic": "Nutrition myths",
+   "title": "Plant omega-3 vs fish omega-3",
+   "caption": "Myth check: plant omega-3 does the same job as fish omega-3. Evidence: only a small share of plant ALA converts to EPA and DHA (reported under 15%), so they are not interchangeable. Save this. Do you eat flax, chia or walnuts? #nutrition #omega3",
+   "alt": "Infographic. Plant omega-3 vs fish omega-3. Same family, different jobs. THE MYTH: Plant omega-3 does the same job as fish omega-3. WHAT THE EVIDENCE SAYS: The body converts only a small share of plant ALA into the EPA and DHA found in fish. NIH says eating EPA and DHA directly is the only practical way to raise their levels. < 15%: Reported conversion of ALA to EPA and DHA. 1.6 | 1.1 g: ALA Adequate Intake per day, men | women (age 19 to 50). STILL USEFUL: Flaxseed oil, chia seeds and walnuts supply ALA, and ALA counts toward the ALA Adequate Intake. Plant foods supply ALA. Fish supplies EPA and DHA. They are not interchangeable. Sources: NIH Office of Dietary Supplements.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Omega-3 Fatty Acids fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    }
+   ],
+   "title_fa": "امگا۳ گیاهی در برابر امگا۳ ماهی",
+   "caption_fa": "بررسی افسانه: امگا۳ گیاهی همان کار امگا۳ ماهی را می‌کند. شواهد: فقط بخش کوچکی از ALA گیاهی به EPA و DHA تبدیل می‌شود (کمتر از ۱۵٪ گزارش شده)، پس جایگزین هم نیستند. ذخیره کنید. کتان، چیا یا گردو می‌خورید؟ #تغذیه #امگا۳",
+   "alt_fa": "اینفوگرافیک. امگا۳ گیاهی در برابر امگا۳ ماهی. یک خانواده، نقش‌های متفاوت. افسانه: امگا۳ گیاهی دقیقاً همان کار امگا۳ ماهی را می‌کند. شواهد چه می‌گویند: بدن تنها بخش کوچکی از ALA گیاهی را به EPA و DHA موجود در ماهی تبدیل می‌کند. NIH می‌گوید خوردن مستقیم EPA و DHA تنها راه عملی برای بالا بردن سطح آن‌هاست. کمتر از ۱۵٪: نرخ گزارش‌شده تبدیل ALA به EPA و DHA. ۱٫۶ | ۱٫۱ گرم: مقدار کفایت (AI) ALA در روز، مردان | زنان (۱۹ تا ۵۰ سال). همچنان مفید: روغن بذر کتان، دانه چیا و گردو ALA دارند و ALA در مقدار کفایت ALA حساب می‌شود. غذاهای گیاهی ALA می‌دهند و ماهی EPA و DHA. جایگزین هم نیستند. منبع: NIH Office of Dietary Supplements.",
+   "topic_fa": "افسانه‌های تغذیه"
+  },
+  {
+   "id": "w2-thu",
+   "slug": "do-you-need-a-protein-powder",
+   "date": "2026-11-12",
+   "topic": "Evidence desk",
+   "title": "Do you need a protein powder?",
+   "caption": "Protein powders: do you need one? Food can supply protein (RDA 0.8 g per kg). Consumer Reports found more than two-thirds of 23 products had more lead per serving than its 0.5 mcg a day concern level. Food first. Do you use a powder? #nutrition #protein",
+   "alt": "Infographic. Do you need a protein powder?. A quick evidence check. FOOD FIRST: Whole foods such as Greek yogurt, nuts, legumes and meat can supply protein. The RDA is 0.8 g per kg of body weight, about 50 g a day for a 140 lb person. WHAT TESTING FOUND: Consumer Reports tested 23 powders and shakes. More than two-thirds had more lead per serving than its 0.5 mcg a day concern level. 9x: Plant-based powders averaged nine times the lead of dairy-based ones. 0: Federal limits on heavy metals in supplements. BEFORE YOU BUY: Avoid products with a Proposition 65 warning, and ask a health professional if you have a specific need. Consumer Reports advises against daily use of high-lead products. Food comes first. If you use a powder, look at the testing and keep it occasional. Sources: Consumer Reports protein powder testing, reported by NPR; Harvard T.H. Chan School of Public Health.",
+   "sources": [
+    {
+     "t": "Consumer Reports protein powder testing, reported by NPR (Oct 16, 2025)",
+     "u": "https://npr.org/2025/10/16/nx-s1-5576294/protein-powder-lead-consumer-reports"
+    },
+    {
+     "t": "Harvard T.H. Chan School of Public Health, The Nutrition Source: Protein",
+     "u": "https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/"
+    }
+   ],
+   "title_fa": "آیا به پودر پروتئین نیاز دارید؟",
+   "caption_fa": "پودر پروتئین: به آن نیاز دارید؟ غذا می‌تواند پروتئین تأمین کند (RDA برابر ۰٫۸ گرم به ازای هر کیلوگرم). Consumer Reports دید بیش از دو‌سوم ۲۳ محصول سرب بیشتری از سطح نگرانی ۰٫۵ میکروگرم در روز در هر وعده دارند. اول غذا. پودر مصرف می‌کنید؟ #تغذیه #پروتئین",
+   "alt_fa": "اینفوگرافیک. آیا به پودر پروتئین نیاز دارید؟. یک بررسی سریع شواهد. اول غذا: غذاهای کامل مانند ماست یونانی، مغزها، حبوبات و گوشت پروتئین تأمین می‌کنند. RDA برابر ۰٫۸ گرم به ازای هر کیلوگرم وزن بدن است، حدود ۵۰ گرم در روز برای فردی ۶۳ کیلوگرمی (۱۴۰ پوند). آزمایش‌ها چه یافتند: Consumer Reports ‏۲۳ پودر و شیک را آزمایش کرد. بیش از دو‌سوم آن‌ها سرب بیشتری از سطح نگرانی ۰٫۵ میکروگرم در روز در هر وعده داشتند. ۹ برابر: پودرهای گیاهی به‌طور میانگین ۹ برابر پودرهای لبنی سرب داشتند. ۰: حد فدرال برای فلزات سنگین در مکمل‌ها. پیش از خرید: از محصولات دارای هشدار Proposition ۶۵ پرهیز کنید و اگر نیاز خاصی دارید از متخصص سلامت بپرسید. Consumer Reports مصرف روزانه محصولات پرسرب را توصیه نمی‌کند. غذا در اولویت است. اگر پودر مصرف می‌کنید، آزمایش‌ها را ببینید و آن را گاهی مصرف کنید. منبع: آزمایش پودرهای پروتئین توسط Consumer Reports، گزارش NPR; دانشکده بهداشت عمومی هاروارد.",
+   "topic_fa": "میز شواهد"
+  },
+  {
+   "id": "w2-fri",
+   "slug": "week-2-in-six-lines",
+   "date": "2026-11-13",
+   "topic": "Weekly recap",
+   "title": "Week 2 in six lines",
+   "caption": "Week 2 in six lines: vitamin D, calcium, fiber, Shirazi salad, omega-3 and protein powders. Compare per serving, read the %DV and keep food first. Test yourself in our Story quiz. #nutrition #weeklyrecap",
+   "alt": "Infographic. Week 2 in six lines. Quick review of what we covered. 1. Vitamin D: Few foods have it. Sunlight depends on many factors. 2. Calcium: Check the label: tofu counts if made with calcium salts. 3. Fiber: 28 g Daily Value. 20% DV or more is high. 4. Shirazi salad: Dress it just before serving. 5. Omega-3: Plant ALA and fish EPA and DHA are not interchangeable. 6. Protein powders: Food first. Check the testing and keep it occasional. Compare per serving, read the %DV and keep food first. Sources: NIH Office of Dietary Supplements; FDA; Consumer Reports protein powder testing, reported by NPR.",
+   "sources": [
+    {
+     "t": "NIH Office of Dietary Supplements, Vitamin D fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Calcium fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/"
+    },
+    {
+     "t": "FDA, Interactive Nutrition Facts Label: Dietary Fiber",
+     "u": "https://www.accessdata.fda.gov/scripts/interactiveNutritionFactsLabel/dietary-fiber.cfm"
+    },
+    {
+     "t": "NIH Office of Dietary Supplements, Omega-3 Fatty Acids fact sheet (health professionals)",
+     "u": "https://ods.od.nih.gov/factsheets/Omega3FattyAcids-HealthProfessional/"
+    },
+    {
+     "t": "Consumer Reports protein powder testing, reported by NPR (Oct 16, 2025)",
+     "u": "https://npr.org/2025/10/16/nx-s1-5576294/protein-powder-lead-consumer-reports"
+    }
+   ],
+   "title_fa": "هفته دوم در شش خط",
+   "caption_fa": "هفته دوم در شش خط: ویتامین D، کلسیم، فیبر، سالاد شیرازی، امگا۳ و پودر پروتئین. در هر وعده مقایسه کنید، درصد مقدار روزانه را بخوانید و غذا را در اولویت بگذارید. خودتان را در کوییز استوری بسنجید. #تغذیه #مرور_هفته",
+   "alt_fa": "اینفوگرافیک. هفته دوم در شش خط. مرور سریع آنچه خواندیم. 1. ویتامین D: غذاهای کمی دارند. آفتاب به عوامل زیادی بستگی دارد. 2. کلسیم: برچسب را بخوانید: توفو اگر با نمک‌های کلسیم تهیه شده باشد حساب می‌شود. 3. فیبر: مقدار روزانه ۲۸ گرم. ۲۰٪ یا بیشتر یعنی زیاد. 4. سالاد شیرازی: درست پیش از سرو سس بزنید. 5. امگا۳: ALA گیاهی و EPA و DHA ماهی جایگزین هم نیستند. 6. پودر پروتئین: اول غذا. آزمایش‌ها را ببینید و گاهی مصرف کنید. در هر وعده مقایسه کنید، درصد مقدار روزانه را بخوانید و غذا را در اولویت بگذارید. منبع: NIH Office of Dietary Supplements; FDA; آزمایش پودرهای پروتئین توسط Consumer Reports، گزارش NPR.",
+   "topic_fa": "مرور هفته"
   }
  ],
  "words": []

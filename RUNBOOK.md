@@ -6,8 +6,8 @@ Site: https://pomandpulse.github.io (GitHub Pages, source = GitHub Actions)
 - `_src/data/pieces.json` is the single data file (site info, pieces, glossary words).
 - `_src/build.py` (Python standard library only) builds the site into `_site/`.
 - The site has a separate Farsi version under `/fa/` (RTL, Farsi navigation). Each piece needs `title_fa`, `caption_fa`, `alt_fa`, `topic_fa` (and optional `note_fa`).
-- A piece is published when its `date` is on or before the cutoff: the most recent Saturday on or before yesterday (Pacific time). Override with `--through YYYY-MM-DD`.
-- `.github/workflows/site.yml` builds and deploys every Sunday 11:00 PT (`0 18 * * 0`, UTC), on manual run, and on pushes to `_src/` or the workflow.
+- A piece is published when its `date` is on or before the cutoff: today (Pacific time), so each piece goes live on its own date. Override with `--through YYYY-MM-DD`.
+- `.github/workflows/site.yml` builds and deploys every day at 08:00 PST (`0 16 * * *`, UTC; 09:00 PDT in summer), on manual run, and on pushes to `_src/` or the workflow.
 
 ## Add a piece
 1. Add an object to `pieces` in `_src/data/pieces.json` (id, slug, date, topic, title, caption, alt, sources, title_fa, caption_fa, alt_fa).

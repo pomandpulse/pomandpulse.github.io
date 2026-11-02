@@ -1,7 +1,7 @@
 name: Build and deploy site
 on:
   schedule:
-    - cron: "0 18 * * 0"
+    - cron: "0 16 * * *"
   workflow_dispatch:
   push:
     branches: [main]
